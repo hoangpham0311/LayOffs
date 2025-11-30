@@ -72,7 +72,7 @@ Conclusion:
 
 Layoffs concentrate heavily in Consumer, Retail, and Transportation, reflecting global spending shifts and logistics disruptions.
 
-5. Layoffs by Country (Top 10)
+6. Layoffs by Country (Top 10)
 
 | Country           | Total Laid Off |
 | ----------------- | -------------- |
