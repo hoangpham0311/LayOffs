@@ -1,4 +1,4 @@
-#Lay Offs Analysis
+## Lay Offs Analysis
 
 This analysis examines global layoffs in the tech and startup ecosystem based on company-level records from 2020–2023. Using the dataset, we evaluate the magnitude of layoffs by company, industry, country, and year. The insights offer a clear view of how economic conditions, pandemic shock, funding pressures, and restructuring cycles affected staffing decisions worldwide.
 
